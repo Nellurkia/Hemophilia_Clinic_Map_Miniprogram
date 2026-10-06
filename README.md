@@ -1,9 +1,11 @@
-<img width="1024" height="1536" alt="49f83b782a7e20c8212deea3cd425c74" src="https://github.com/user-attachments/assets/f4cdfc77-3a3f-4a2a-91ce-e4dae417fadc" /># 微信小程序
+# 微信小程序
 面向血友病患者及其家属的简单Webview小程序，提供首页资讯与诊所地图两个入口。
 
 > 当前仓库为 **WebView 壳**，页面内容由 H5 站点 `https://xueyou.xyz/map` 承载。
+
 > 上线小程序名为“**血友支持网络丨附近服务点查找**”；但近期因微信认证到期等原因出现无法访问，血友病注射支持地图临时链接：
 https://xueyou-map-slay-d3g2c88il5c345199.webapps.tcloudbase.com/map/
+
 <img width="1024" height="1536" alt="49f83b782a7e20c8212deea3cd425c74" src="https://github.com/user-attachments/assets/362386d2-e6b8-4e19-8248-0c1e9c88450d" />
 
 ## 功能
