@@ -1,0 +1,9 @@
+<!-- pages/map/map.wxml -->
+<view class="container">
+  <web-view 
+    src="{{webUrl}}" 
+    bindmessage="onWebViewMessage"
+    binderror="onWebViewError"
+    bindload="onWebViewLoad">
+  </web-view>
+</view>
